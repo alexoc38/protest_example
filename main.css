@@ -1,0 +1,14 @@
+/* This is a CSS file. */
+
+* {
+	font-family: Georgia, serif;
+}
+
+h1 {
+	text-transform: uppercase;
+}
+
+h6, figcaption {
+	color: gray;
+}
+
